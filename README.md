@@ -1,19 +1,19 @@
 # Instagram Clone
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e92770b8-79b5-413e-8f60-18c8f99c852a" width="300" height="550" />
-  <img src="https://github.com/user-attachments/assets/baac4391-1622-4e9e-b918-2835bb5423d0" width="300" height="550" />
-  <img src="https://github.com/user-attachments/assets/988c174d-f091-48f9-9552-bc7105853412" width="300" height="550" />
+  <img src="https://github.com/user-attachments/assets/e92770b8-79b5-413e-8f60-18c8f99c852a" width="300" />
+  <img src="https://github.com/user-attachments/assets/baac4391-1622-4e9e-b918-2835bb5423d0" width="300" />
+  <img src="https://github.com/user-attachments/assets/988c174d-f091-48f9-9552-bc7105853412" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3de28256-4ba7-4a28-a32f-b9f492484ce5" width="300" height="550" />
-  <img src="https://github.com/user-attachments/assets/e62b789e-d93a-4043-ad53-eb460995d94f" width="300" height="550" />
-  <img src="https://github.com/user-attachments/assets/3540947f-9ee4-496f-9058-541eb046be8a" width="300" height="550" />
+  <img src="https://github.com/user-attachments/assets/3de28256-4ba7-4a28-a32f-b9f492484ce5" width="300" />
+  <img src="https://github.com/user-attachments/assets/e62b789e-d93a-4043-ad53-eb460995d94f" width="300" />
+  <img src="https://github.com/user-attachments/assets/3540947f-9ee4-496f-9058-541eb046be8a" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c59cff5-e10f-4506-97e5-aa9acbb9c318" width="300" height="550" />
+  <img src="https://github.com/user-attachments/assets/5c59cff5-e10f-4506-97e5-aa9acbb9c318" width="300" />
 </p>
 
 ## How to Use
