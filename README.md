@@ -1,7 +1,7 @@
 # Instagram Clone
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e92770b8-79b5-413e-8f60-18c8f99c852a" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/e92770b8-79b5-413e-8f60-18c8f99c852a" width="300" height="400" />
   <img src="https://github.com/user-attachments/assets/baac4391-1622-4e9e-b918-2835bb5423d0" width="300" height="200" />
   <img src="https://github.com/user-attachments/assets/988c174d-f091-48f9-9552-bc7105853412" width="300" height="200" />
 </p>
